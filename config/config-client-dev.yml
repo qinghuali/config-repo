@@ -1,2 +1,2 @@
-xlink:
-  environment: dev
+info:
+  profile: dev
