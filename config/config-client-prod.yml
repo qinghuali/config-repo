@@ -1,2 +1,2 @@
-xlink:
-  environment: prod
+info:
+  profile: prod
