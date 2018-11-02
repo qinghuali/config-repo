@@ -1,0 +1,8 @@
+mongo:
+  slave:
+    connectionsPerHost: 50
+    hosts: dev2:23770
+    
+rpc:
+  server:
+    innerIp: dev2
